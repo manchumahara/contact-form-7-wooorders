@@ -1,21 +1,13 @@
 Woocommerce Customer Orders Dropdown Selector
 
 === Contact Form 7 WooCommerce Order ===
-
 Contributors: manchumahara,codeboxr,wpboxr
-
 Donate link: http://wpboxr.com/donate
-
 Tags: contact form 7, woocommerce, field,form field,cf7, cforms, contact form, contact forms, Contact Forms 7, contacted, contactform7, contacts, form, forms
-
 Requires at least: 3.8.1
-
 Tested up to: 4.2.2
-
 Stable tag: 1.0.0
-
 License: GPLv2 or later
-
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Add WooCommerce Orders Dropdown fields to the popular Contact Form 7 plugin.

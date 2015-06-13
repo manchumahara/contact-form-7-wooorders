@@ -35,9 +35,9 @@ e.g.
 1. Field in form edit
 ![Field in form edit](/../master/assets/screenshot-1.png?raw=true "Field in form edit")
 2. Field creator
-![Alt text](/../<branch name>/path/to/image.png?raw=true "Optional Title")
+![Field creator](/../master/assets/screenshot-2.png?raw=true "Field creator")
 3. Field in action
-![Alt text](/../<branch name>/path/to/image.png?raw=true "Optional Title")
+![Field in action](/../master/assets/screenshot-3.png?raw=true "Field in action")
 
 == Changelog ==
 

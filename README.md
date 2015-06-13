@@ -33,8 +33,11 @@ e.g.
 == Screenshots ==
 
 1. Field in form edit
+![Field in form edit](/../master/assets/screenshot-1.png?raw=true "Field in form edit")
 2. Field creator
+![Alt text](/../<branch name>/path/to/image.png?raw=true "Optional Title")
 3. Field in action
+![Alt text](/../<branch name>/path/to/image.png?raw=true "Optional Title")
 
 == Changelog ==
 
